@@ -1,4 +1,4 @@
-## Oiii eu sou a Leonel Araujo , Estudante de Programção Full Stack!
+## Oiii eu sou a Leonel Araujo , Programador Full Stack!
 
 
 
