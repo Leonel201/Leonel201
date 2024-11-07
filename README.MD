@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1283936488412811315/1303947106955825162/export202410081326527406.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1283936488412811315/1303947106955825162/export202410081326527406.png?ex=672d9ae0&is=672c4960&hm=1eb4cc3b9b7e89a1ce9040116a7abf748fc4e1500b6dc848ae8cb5d652b0a1b0&">
 </div>
   
   ##
