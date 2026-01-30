@@ -26,8 +26,3 @@ Sou um desenvolvedor apaixonado por criar interfaces web modernas, responsivas e
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-![Leonel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonel201&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonel201&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
