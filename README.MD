@@ -1,27 +1,36 @@
-## Oiii eu sou a Leonel Araujo , Programador Full Stack!
+# Olá, eu sou Leonel de Araujo! 👋
 
+## 👨‍💻 Front-End Developer
 
+Sou um desenvolvedor apaixonado por criar interfaces web modernas, responsivas e intuitivas. Meu foco principal é no **Front-End**, transformando design e ideias em experiências de usuário fluidas e código limpo.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCzKgvg_VeliPdjVNTdIaliA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/l3ozinfpss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/l3ozinfpss" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/gQdfnDUdp6
-" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leonelfilho10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  
-</div>
+---
+
+### 🚀 Sobre mim
+
+- 🔭 Atualmente estou trabalhando em projetos web focados em **experiência do usuário (UX)** e **interfaces responsivas**.
+- 🌱 Estou sempre estudando novas tecnologias do ecossistema JavaScript e melhores práticas de CSS.
+- 💬 Pergunte-me sobre **HTML5, CSS3, JavaScript e Design Responsivo**.
+- 📫 Como chegar até mim: *[Insira seu email ou LinkedIn aqui]*
+
+---
+
+### 🛠️ Tech Stack
+
+**Front-End:**
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- **Frameworks/Libs:** React (ou o que você usar), Bootstrap, Tailwind.
+- **Conceitos:** Responsive Design, Mobile First, UI/UX.
+
+**Back-End & Outros:**
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Leonel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonel201&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonel201&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+*(Nota: Substitua "Leonel201" nos links acima pelo seu nome de usuário real do GitHub para que os gráficos funcionem)*
